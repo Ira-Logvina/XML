@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<my_skills>
+	<soft_skills>:
+		<1>Communication skills</1>
+        	<2>Analytical skills</2>
+		<3>Attention to detail</3>
+		<4>Teamwork</4>
+		<5>Focus on quality</5> 
+	</soft_skills>
+	<hard_skills>:
+		<1>Knowledge of software testing types, methodologies, and techniques</1>
+		<2>Familiarity with certain bug tracking and test management tools</2>
+		<3>Mobile testing</3>
+	<4>Knowledge of a particular programming language</4>
+	</hard_skills>
+</my_skills>
