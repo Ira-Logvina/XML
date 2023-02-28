@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<structure>
+  <id>1</id>
+  <severity>Minor</severity>
+  <priority>Low</priority>
+  <environoment>Iphone 13 iOS 16.1</environoment>
+  <title>The toggle [Background color] in setup of Coin or Ticker widget returns to the previous state after switching it</title>
+  <str>
+    <step_1>Open setup of Coin or Ticker widget</step_1>
+    <step_2>Toggle to the Background color</step_2>
+ </str>
+  <expected_result>The toggle [Background color] is changed</expected_result>
+  <actual_result>The toggle [Background color] returns to the previous state</actual_result>
+  <author>@IraLogvina</author>
+</structure>
