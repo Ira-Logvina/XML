@@ -5,6 +5,6 @@
 	<last_name>Logvina</last_name>
         <age>29</age>
         <pet>dog</pet>
-        <dog&apos;s_name>Tory</dog&apos;s_name>
+        <dog_name>Tory</dog_name>
     </about_me>
 </root>
